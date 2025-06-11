@@ -1,0 +1,139 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<a href="index.html">&#x2190; Go Back</a>
+<title>Our exhibitions</title>
+<style>
+    h1 {
+      text-align: center;
+      background: url('abstract_art.jpg');
+      color: transparent;
+      font-size: 12em;
+      -webkit-background-clip: text;
+      margin: 8px;
+    }
+    h2 {
+      font-size: 2.5em;
+      font-weight: Garamond, serif;
+    }
+    .Photo1 {
+      margin-left: 220px;
+      margin-top: 25px;
+    }
+    #logo {
+      width: 400px;
+      height: 400px;
+    }
+    .Exhibition_title1 {
+      margin-left: 220px;
+      font-size: 20px;
+      color: black;
+    }
+    #logo2 {
+      width: 400px;
+      height: 400px;
+    }
+    .Photo2 {
+      margin-left: 700px;
+      margin-top: -426px;
+    }
+    .Exhibition_title2 {
+      margin-left: 725px;
+      font-size: 20px;
+      color: black;    
+      }
+    #logo3 {
+      width: 400px;
+      height: 400px;
+    }
+    .Photo3 {
+      margin-left: 1200px;
+      margin-top: -425px;
+    }
+    .Exhibition_title3 {
+      margin-left: 1225px;
+      font-size: 20px;
+      color: black;
+    }
+    #logo4 {
+      width: 400px;
+      height: 400px;
+    }
+    .Photo4 {
+      margin-top: 80px;
+      margin-left: 220px;
+    }
+    .Exhibition_title4 {
+      margin-left: 210px;
+      font-size: 20px;
+      color: black;
+    }
+    #logo5 {
+      width: 400px;
+      height: 400px;
+    }
+    .Photo5 {
+      margin-top: -427px;
+      margin-left: 700px;
+    }
+    .Exhibition_title5 {
+      margin-top: 0px;
+      margin-left: 765px;
+      font-size: 20px;
+      color: black;
+    }
+    #logo6 {
+      width: 400px;
+      height: 400px;
+    }
+    .Photo6 {
+      margin-left: 1200px;
+      margin-top: -425px;
+    }
+    .Exhibition_title6 {
+      margin-left: 1275px;
+      font-size: 20px;
+      color: black;
+    }
+    </style>
+</head>
+<body>
+<h1>Our exhibitions:</h1>
+<div class=Photo1>
+  <img src="House.jpg" id="logo" />
+</div>
+<div class="Exhibition_title1">
+  <a href="House.html">Do Ho Suh: Tracing Spaces, Unpacking Belonging</a>
+</div>
+<div class=Photo2>
+  <img src="Insects2.png" id="logo2" />
+</div>
+<div class="Exhibition_title2">
+  <a href="Insects.html"> Animals & Art:  The pursuit of Knowledge </a>
+</div>
+<div class=Photo3>
+  <img src="Europe.jpg" id="logo3" />
+</div>
+<div class="Exhibition_title3">
+  <a href="Europe.html">Grand Visions: Europe's Artistic Delights!</a>
+</div>
+<div class=Photo4>
+  <img src="Black.jpg" id="logo4" />
+</div>
+<div class="Exhibition_title4">
+  <a href="Black_White.html">The Tonal Spectrum: A Black and White Exploration</a>
+</div>
+<div class=Photo5>
+  <img src="Picasso.jpg" id="logo5" />
+</div>
+<div class="Exhibition_title5">
+  <a href="Picasso.html">Picasso: A Revolutionary Vision</a>
+</div>
+<div class=Photo6>
+  <img src="Pat_Hanly.jpg" id="logo6" />
+</div>
+<div class="Exhibition_title6">
+  <a href="Pan_Hanly.html">Pat Hanly: The Luminous Life</a>
+</div>
+</body>
+</html>
